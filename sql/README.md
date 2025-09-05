@@ -40,7 +40,7 @@ Below are the key queries and what they inform:
 ### 3. Attrition by Gender and Overtime
 > Understand if gender and overtime impact attrition rates.
 
-![gender_overtime_attrition](images/gender_overtime_attrition.png)
+![gender_overtime_attrition](images/attrition_gender_overtime.png)
 
 ---
 
